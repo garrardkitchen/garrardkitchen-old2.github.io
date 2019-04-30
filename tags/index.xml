@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>CI/CD</title>
-      <link>/tags/ci/cd/</link>
-      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
-      
-      <guid>/tags/ci/cd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>aws api gateway</title>
       <link>/tags/aws-api-gateway/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
@@ -35,6 +26,15 @@
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
       <guid>/tags/aws-sam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ci/cd</title>
+      <link>/tags/ci/cd/</link>
+      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
+      
+      <guid>/tags/ci/cd/</guid>
       <description></description>
     </item>
     
@@ -354,15 +354,6 @@
     </item>
     
     <item>
-      <title>CX</title>
-      <link>/tags/cx/</link>
-      <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
-      
-      <guid>/tags/cx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lambda lb target</title>
       <link>/tags/lambda-lb-target/</link>
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
@@ -377,6 +368,15 @@
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
       
       <guid>/tags/alb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cx</title>
+      <link>/tags/cx/</link>
+      <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
+      
+      <guid>/tags/cx/</guid>
       <description></description>
     </item>
     
