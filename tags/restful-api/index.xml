@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RESTful API on GPK</title>
+    <link>/tags/restful-api/</link>
+    <description>Recent content in RESTful API on GPK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2019 17:16:53 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/restful-api/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Migrations</title>
+      <link>/projects/migrations/</link>
+      <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
+      
+      <guid>/projects/migrations/</guid>
+      <description>Coach migrated from MSSQL to MySQL as costs were too high for Always-On capabilities. I was accepted onto Aurora MySQL Preview programme and contributed to this phase. The product had a key dependency that required a specific version of MySQL. As a result we are now using Amazon Aurora and plan to migrate over to Aurora Serverless when version 5.7 is supported.
+ To offer CXcoach to a greater audience, a web plug-in dependency had to be removed.</description>
+    </item>
+    
+    <item>
+      <title>SDK</title>
+      <link>/projects/sdk/</link>
+      <pubDate>Sun, 28 Apr 2019 16:30:38 +0100</pubDate>
+      
+      <guid>/projects/sdk/</guid>
+      <description>I created a process for others, external to the company, to perform integrations. The concept is simple and still used today.
+In summary, a conduit known as a Data Connector was developed to (a) be used by Coach via a RESTful API and (b) integrate with Vendor or other system(s) APIs or data sources. Metadata for users &amp;amp; recordings could then be exchanged via the Data Connector. Additional [configurable] data was also passed along this pipeline.</description>
+    </item>
+    
+    <item>
+      <title>Coach</title>
+      <link>/projects/coach/</link>
+      <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
+      
+      <guid>/projects/coach/</guid>
+      <description> Created a web based product of our successful client/server product. Chose appropriate tech to fit the timeline.
+ Worked with a Pakistani development outsourcing company and Recorder vendor that the product was integrating with at the time. Later developing the application to integrate with the Redbox Recorder, leading Redbox to purchase the code after an agreed sign off.  </description>
+    </item>
+    
+  </channel>
+</rss>

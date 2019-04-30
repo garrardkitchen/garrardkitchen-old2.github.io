@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nats on GPK</title>
+    <link>/tags/nats/</link>
+    <description>Recent content in nats on GPK</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Apr 2019 17:22:33 +0100</lastBuildDate>
+    
+	<atom:link href="/tags/nats/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>IntelliSearch</title>
+      <link>/projects/intellisearch/</link>
+      <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
+      
+      <guid>/projects/intellisearch/</guid>
+      <description>Coach has a long standing feature called IntelliSearch.
+It is a feature that, at a specific time, for several set periods [daily, weekly, monthly, custom], it will submit queries to a Data Connector (conduit between our system and an external system) to match up randomly selected recordings for later evaluation. The random algorithm implemented is there to ensure fairness of recording selection so apples and apples are compared and not apples to oranges.</description>
+    </item>
+    
+    <item>
+      <title>Streamline deployment of HA app</title>
+      <link>/projects/ha/</link>
+      <pubDate>Sun, 28 Apr 2019 15:56:30 +0100</pubDate>
+      
+      <guid>/projects/ha/</guid>
+      <description>The Coach product started as an on-prem application, installed behind the firewall on a single server.
+A partner made a request for the product [Coach] to be made highly available. Initially the product was hosted via an active/passive configuration. This was superseded by a load balanced active/active configuration through the application of Akka.NET throughout all components. This enabled an application cluster that could load balance the demands across all components.</description>
+    </item>
+    
+  </channel>
+</rss>
