@@ -129,15 +129,6 @@
     </item>
     
     <item>
-      <title>NATS</title>
-      <link>/tags/nats/</link>
-      <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
-      
-      <guid>/tags/nats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>akka.net</title>
       <link>/tags/akka.net/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
@@ -170,6 +161,15 @@
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
       <guid>/tags/lambdas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nats</title>
+      <link>/tags/nats/</link>
+      <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
+      
+      <guid>/tags/nats/</guid>
       <description></description>
     </item>
     

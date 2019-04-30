@@ -231,12 +231,6 @@
   </url>
   
   <url>
-    <loc>/tags/nats/</loc>
-    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/tags/akka.net/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
@@ -256,6 +250,12 @@
   
   <url>
     <loc>/tags/lambdas/</loc>
+    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/nats/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
   </url>
