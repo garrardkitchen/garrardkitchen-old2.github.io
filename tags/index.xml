@@ -165,15 +165,6 @@
     </item>
     
     <item>
-      <title>NATS</title>
-      <link>http://www.garrardkitchen.com/tags/nats/</link>
-      <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/nats/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>akka.net</title>
       <link>http://www.garrardkitchen.com/tags/akka.net/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
@@ -206,6 +197,15 @@
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/lambdas/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nats</title>
+      <link>http://www.garrardkitchen.com/tags/nats/</link>
+      <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/nats/</guid>
       <description></description>
     </item>
     
@@ -399,6 +399,15 @@
     </item>
     
     <item>
+      <title>CX</title>
+      <link>http://www.garrardkitchen.com/tags/cx/</link>
+      <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/cx/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lambda lb target</title>
       <link>http://www.garrardkitchen.com/tags/lambda-lb-target/</link>
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
@@ -413,15 +422,6 @@
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/alb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cx</title>
-      <link>http://www.garrardkitchen.com/tags/cx/</link>
-      <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/cx/</guid>
       <description></description>
     </item>
     

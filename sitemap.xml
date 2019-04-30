@@ -261,12 +261,6 @@
   </url>
   
   <url>
-    <loc>http://www.garrardkitchen.com/tags/nats/</loc>
-    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.garrardkitchen.com/tags/akka.net/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
@@ -286,6 +280,12 @@
   
   <url>
     <loc>http://www.garrardkitchen.com/tags/lambdas/</loc>
+    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/nats/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -417,6 +417,12 @@
   </url>
   
   <url>
+    <loc>http://www.garrardkitchen.com/tags/cx/</loc>
+    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.garrardkitchen.com/tags/lambda-lb-target/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
@@ -424,12 +430,6 @@
   
   <url>
     <loc>http://www.garrardkitchen.com/tags/alb/</loc>
-    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.garrardkitchen.com/tags/cx/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
   </url>
