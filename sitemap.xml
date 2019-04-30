@@ -9,6 +9,12 @@
   </url>
   
   <url>
+    <loc>http://www.garrardkitchen.com/projects/security/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://www.garrardkitchen.com/projects/resume/</loc>
     <lastmod>2019-04-30T08:46:29+01:00</lastmod>
     <priority>0.8</priority>
@@ -154,7 +160,73 @@
   
   <url>
     <loc>http://www.garrardkitchen.com/tags/</loc>
-    <lastmod>2019-04-30T08:46:29+01:00</lastmod>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/at-rest/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/hashed/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/iam/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/in-transit/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/mfa/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/owasp/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/password-manager/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/security/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/tls/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/waf/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/wifi/</loc>
+    <lastmod>2019-04-30T11:47:28+01:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -327,6 +399,12 @@
   </url>
   
   <url>
+    <loc>http://www.garrardkitchen.com/tags/restful-api/</loc>
+    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.garrardkitchen.com/tags/asp.net-core/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
@@ -358,12 +436,6 @@
   
   <url>
     <loc>http://www.garrardkitchen.com/tags/mssql/</loc>
-    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.garrardkitchen.com/tags/restful-api/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
   </url>
