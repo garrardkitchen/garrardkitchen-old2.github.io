@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>CI/CD</title>
+      <link>/tags/ci/cd/</link>
+      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
+      
+      <guid>/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>aws api gateway</title>
       <link>/tags/aws-api-gateway/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
@@ -26,15 +35,6 @@
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
       <guid>/tags/aws-sam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ci/cd</title>
-      <link>/tags/ci/cd/</link>
-      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
-      
-      <guid>/tags/ci/cd/</guid>
       <description></description>
     </item>
     
@@ -129,6 +129,15 @@
     </item>
     
     <item>
+      <title>NATS</title>
+      <link>/tags/nats/</link>
+      <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
+      
+      <guid>/tags/nats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>akka.net</title>
       <link>/tags/akka.net/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
@@ -161,15 +170,6 @@
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
       <guid>/tags/lambdas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nats</title>
-      <link>/tags/nats/</link>
-      <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
-      
-      <guid>/tags/nats/</guid>
       <description></description>
     </item>
     
@@ -228,6 +228,15 @@
     </item>
     
     <item>
+      <title>RESTful API</title>
+      <link>/tags/restful-api/</link>
+      <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
+      
+      <guid>/tags/restful-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>asp.net core</title>
       <link>/tags/asp.net-core/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
@@ -269,15 +278,6 @@
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
       <guid>/tags/mssql/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>restful api</title>
-      <link>/tags/restful-api/</link>
-      <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
-      
-      <guid>/tags/restful-api/</guid>
       <description></description>
     </item>
     
