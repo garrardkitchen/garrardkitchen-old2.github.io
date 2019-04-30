@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>aws sam on GPK</title>
-    <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-sam/</link>
+    <link>http://www.garrardkitchen.com/tags/aws-sam/</link>
     <description>Recent content in aws sam on GPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Apr 2019 17:31:27 +0100</lastBuildDate>
     
-	<atom:link href="https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-sam/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.garrardkitchen.com/tags/aws-sam/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Corporate Website</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/projects/corporate-website/</link>
+      <link>http://www.garrardkitchen.com/projects/corporate-website/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/projects/corporate-website/</guid>
+      <guid>http://www.garrardkitchen.com/projects/corporate-website/</guid>
       <description> Used mainly static content and ported new copy/layout to SAM Serverless Application C# .NET Core Razor Pages solution. Originally WP was in place, so removing MySQL reduced the cost. I created a CI/CD Pipeline using BitBucket. It is now hosted via API Gateway &amp;amp; Lambda and not via an Azure Website.  </description>
     </item>
     

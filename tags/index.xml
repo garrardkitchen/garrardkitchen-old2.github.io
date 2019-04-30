@@ -2,1146 +2,1146 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GPK</title>
-    <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/</link>
+    <link>http://www.garrardkitchen.com/tags/</link>
     <description>Recent content in Tags on GPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Apr 2019 17:31:27 +0100</lastBuildDate>
     
-	<atom:link href="https://github.com/garrardkitchen/garrardkitchen.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.garrardkitchen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CI/CD</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ci/cd/</link>
+      <link>http://www.garrardkitchen.com/tags/ci/cd/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ci/cd/</guid>
+      <guid>http://www.garrardkitchen.com/tags/ci/cd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws api gateway</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-api-gateway/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-api-gateway/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-api-gateway/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-api-gateway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws sam</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-sam/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-sam/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-sam/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-sam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>serverless</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/serverless/</link>
+      <link>http://www.garrardkitchen.com/tags/serverless/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/serverless/</guid>
+      <guid>http://www.garrardkitchen.com/tags/serverless/</guid>
       <description></description>
     </item>
     
     <item>
       <title>athena</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/athena/</link>
+      <link>http://www.garrardkitchen.com/tags/athena/</link>
       <pubDate>Sun, 28 Apr 2019 17:29:12 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/athena/</guid>
+      <guid>http://www.garrardkitchen.com/tags/athena/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws data pipelines</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-data-pipelines/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-data-pipelines/</link>
       <pubDate>Sun, 28 Apr 2019 17:29:12 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-data-pipelines/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-data-pipelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>etl</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/etl/</link>
+      <link>http://www.garrardkitchen.com/tags/etl/</link>
       <pubDate>Sun, 28 Apr 2019 17:29:12 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/etl/</guid>
+      <guid>http://www.garrardkitchen.com/tags/etl/</guid>
       <description></description>
     </item>
     
     <item>
       <title>glue</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/glue/</link>
+      <link>http://www.garrardkitchen.com/tags/glue/</link>
       <pubDate>Sun, 28 Apr 2019 17:29:12 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/glue/</guid>
+      <guid>http://www.garrardkitchen.com/tags/glue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>numpy</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/numpy/</link>
+      <link>http://www.garrardkitchen.com/tags/numpy/</link>
       <pubDate>Sun, 28 Apr 2019 17:29:12 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/numpy/</guid>
+      <guid>http://www.garrardkitchen.com/tags/numpy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pandas</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/pandas/</link>
+      <link>http://www.garrardkitchen.com/tags/pandas/</link>
       <pubDate>Sun, 28 Apr 2019 17:29:12 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/pandas/</guid>
+      <guid>http://www.garrardkitchen.com/tags/pandas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>python</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/python/</link>
+      <link>http://www.garrardkitchen.com/tags/python/</link>
       <pubDate>Sun, 28 Apr 2019 17:29:12 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/python/</guid>
+      <guid>http://www.garrardkitchen.com/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>s3</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/s3/</link>
+      <link>http://www.garrardkitchen.com/tags/s3/</link>
       <pubDate>Sun, 28 Apr 2019 17:29:12 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/s3/</guid>
+      <guid>http://www.garrardkitchen.com/tags/s3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>recruitment</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/recruitment/</link>
+      <link>http://www.garrardkitchen.com/tags/recruitment/</link>
       <pubDate>Sun, 28 Apr 2019 17:25:55 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/recruitment/</guid>
+      <guid>http://www.garrardkitchen.com/tags/recruitment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NATS</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/nats/</link>
+      <link>http://www.garrardkitchen.com/tags/nats/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/nats/</guid>
+      <guid>http://www.garrardkitchen.com/tags/nats/</guid>
       <description></description>
     </item>
     
     <item>
       <title>akka.net</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/akka.net/</link>
+      <link>http://www.garrardkitchen.com/tags/akka.net/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/akka.net/</guid>
+      <guid>http://www.garrardkitchen.com/tags/akka.net/</guid>
       <description></description>
     </item>
     
     <item>
       <title>api gateway</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/api-gateway/</link>
+      <link>http://www.garrardkitchen.com/tags/api-gateway/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/api-gateway/</guid>
+      <guid>http://www.garrardkitchen.com/tags/api-gateway/</guid>
       <description></description>
     </item>
     
     <item>
       <title>elasticsearch</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/elasticsearch/</link>
+      <link>http://www.garrardkitchen.com/tags/elasticsearch/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/elasticsearch/</guid>
+      <guid>http://www.garrardkitchen.com/tags/elasticsearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lambdas</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/lambdas/</link>
+      <link>http://www.garrardkitchen.com/tags/lambdas/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/lambdas/</guid>
+      <guid>http://www.garrardkitchen.com/tags/lambdas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>performance improvements</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/performance-improvements/</link>
+      <link>http://www.garrardkitchen.com/tags/performance-improvements/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/performance-improvements/</guid>
+      <guid>http://www.garrardkitchen.com/tags/performance-improvements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>step functions</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/step-functions/</link>
+      <link>http://www.garrardkitchen.com/tags/step-functions/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/step-functions/</guid>
+      <guid>http://www.garrardkitchen.com/tags/step-functions/</guid>
       <description></description>
     </item>
     
     <item>
       <title>windows services</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/windows-services/</link>
+      <link>http://www.garrardkitchen.com/tags/windows-services/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/windows-services/</guid>
+      <guid>http://www.garrardkitchen.com/tags/windows-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws ecs fargate</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-ecs-fargate/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-ecs-fargate/</link>
       <pubDate>Sun, 28 Apr 2019 17:20:51 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-ecs-fargate/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-ecs-fargate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloudwatch</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/cloudwatch/</link>
+      <link>http://www.garrardkitchen.com/tags/cloudwatch/</link>
       <pubDate>Sun, 28 Apr 2019 17:20:51 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/cloudwatch/</guid>
+      <guid>http://www.garrardkitchen.com/tags/cloudwatch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lambda</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/lambda/</link>
+      <link>http://www.garrardkitchen.com/tags/lambda/</link>
       <pubDate>Sun, 28 Apr 2019 17:20:51 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/lambda/</guid>
+      <guid>http://www.garrardkitchen.com/tags/lambda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>asp.net core</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/asp.net-core/</link>
+      <link>http://www.garrardkitchen.com/tags/asp.net-core/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/asp.net-core/</guid>
+      <guid>http://www.garrardkitchen.com/tags/asp.net-core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>asp.net mvc</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/asp.net-mvc/</link>
+      <link>http://www.garrardkitchen.com/tags/asp.net-mvc/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/asp.net-mvc/</guid>
+      <guid>http://www.garrardkitchen.com/tags/asp.net-mvc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws aurora</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-aurora/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-aurora/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-aurora/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-aurora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws dms</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-dms/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-dms/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-dms/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-dms/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mssql</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/mssql/</link>
+      <link>http://www.garrardkitchen.com/tags/mssql/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/mssql/</guid>
+      <guid>http://www.garrardkitchen.com/tags/mssql/</guid>
       <description></description>
     </item>
     
     <item>
       <title>restful api</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/restful-api/</link>
+      <link>http://www.garrardkitchen.com/tags/restful-api/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/restful-api/</guid>
+      <guid>http://www.garrardkitchen.com/tags/restful-api/</guid>
       <description></description>
     </item>
     
     <item>
       <title>silverlight</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/silverlight/</link>
+      <link>http://www.garrardkitchen.com/tags/silverlight/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/silverlight/</guid>
+      <guid>http://www.garrardkitchen.com/tags/silverlight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ux</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ux/</link>
+      <link>http://www.garrardkitchen.com/tags/ux/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ux/</guid>
+      <guid>http://www.garrardkitchen.com/tags/ux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>amazon aurora</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/amazon-aurora/</link>
+      <link>http://www.garrardkitchen.com/tags/amazon-aurora/</link>
       <pubDate>Sun, 28 Apr 2019 17:12:59 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/amazon-aurora/</guid>
+      <guid>http://www.garrardkitchen.com/tags/amazon-aurora/</guid>
       <description></description>
     </item>
     
     <item>
       <title>c#</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/c#/</link>
+      <link>http://www.garrardkitchen.com/tags/c#/</link>
       <pubDate>Sun, 28 Apr 2019 17:12:59 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/c#/</guid>
+      <guid>http://www.garrardkitchen.com/tags/c#/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloudwatch trigger</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/cloudwatch-trigger/</link>
+      <link>http://www.garrardkitchen.com/tags/cloudwatch-trigger/</link>
       <pubDate>Sun, 28 Apr 2019 17:12:59 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/cloudwatch-trigger/</guid>
+      <guid>http://www.garrardkitchen.com/tags/cloudwatch-trigger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jupyter labs</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/jupyter-labs/</link>
+      <link>http://www.garrardkitchen.com/tags/jupyter-labs/</link>
       <pubDate>Sun, 28 Apr 2019 17:12:59 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/jupyter-labs/</guid>
+      <guid>http://www.garrardkitchen.com/tags/jupyter-labs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>redis</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/redis/</link>
+      <link>http://www.garrardkitchen.com/tags/redis/</link>
       <pubDate>Sun, 28 Apr 2019 17:12:59 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/redis/</guid>
+      <guid>http://www.garrardkitchen.com/tags/redis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sqs</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/sqs/</link>
+      <link>http://www.garrardkitchen.com/tags/sqs/</link>
       <pubDate>Sun, 28 Apr 2019 17:12:59 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/sqs/</guid>
+      <guid>http://www.garrardkitchen.com/tags/sqs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CX</title>
+      <link>http://www.garrardkitchen.com/tags/cx/</link>
+      <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/cx/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Lambda lb target</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/lambda-lb-target/</link>
+      <link>http://www.garrardkitchen.com/tags/lambda-lb-target/</link>
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/lambda-lb-target/</guid>
+      <guid>http://www.garrardkitchen.com/tags/lambda-lb-target/</guid>
       <description></description>
     </item>
     
     <item>
       <title>alb</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/alb/</link>
+      <link>http://www.garrardkitchen.com/tags/alb/</link>
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/alb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>cx</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/cx/</link>
-      <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
-      
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/cx/</guid>
+      <guid>http://www.garrardkitchen.com/tags/alb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>http</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/http/</link>
+      <link>http://www.garrardkitchen.com/tags/http/</link>
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/http/</guid>
+      <guid>http://www.garrardkitchen.com/tags/http/</guid>
       <description></description>
     </item>
     
     <item>
       <title>.net core</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/.net-core/</link>
+      <link>http://www.garrardkitchen.com/tags/.net-core/</link>
       <pubDate>Sun, 28 Apr 2019 17:02:46 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/.net-core/</guid>
+      <guid>http://www.garrardkitchen.com/tags/.net-core/</guid>
       <description></description>
     </item>
     
     <item>
       <title>asp.net framework 4.6</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/asp.net-framework-4.6/</link>
+      <link>http://www.garrardkitchen.com/tags/asp.net-framework-4.6/</link>
       <pubDate>Sun, 28 Apr 2019 17:02:46 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/asp.net-framework-4.6/</guid>
+      <guid>http://www.garrardkitchen.com/tags/asp.net-framework-4.6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws metering service</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-metering-service/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-metering-service/</link>
       <pubDate>Sun, 28 Apr 2019 17:02:46 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-metering-service/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-metering-service/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dynamodb</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/dynamodb/</link>
+      <link>http://www.garrardkitchen.com/tags/dynamodb/</link>
       <pubDate>Sun, 28 Apr 2019 17:02:46 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/dynamodb/</guid>
+      <guid>http://www.garrardkitchen.com/tags/dynamodb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>finance portal</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/finance-portal/</link>
+      <link>http://www.garrardkitchen.com/tags/finance-portal/</link>
       <pubDate>Sun, 28 Apr 2019 17:02:46 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/finance-portal/</guid>
+      <guid>http://www.garrardkitchen.com/tags/finance-portal/</guid>
       <description></description>
     </item>
     
     <item>
       <title>campaign</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/campaign/</link>
+      <link>http://www.garrardkitchen.com/tags/campaign/</link>
       <pubDate>Sun, 28 Apr 2019 16:55:49 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/campaign/</guid>
+      <guid>http://www.garrardkitchen.com/tags/campaign/</guid>
       <description></description>
     </item>
     
     <item>
       <title>pinpoint</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/pinpoint/</link>
+      <link>http://www.garrardkitchen.com/tags/pinpoint/</link>
       <pubDate>Sun, 28 Apr 2019 16:55:49 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/pinpoint/</guid>
+      <guid>http://www.garrardkitchen.com/tags/pinpoint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ses</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ses/</link>
+      <link>http://www.garrardkitchen.com/tags/ses/</link>
       <pubDate>Sun, 28 Apr 2019 16:55:49 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ses/</guid>
+      <guid>http://www.garrardkitchen.com/tags/ses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bootstrap</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/bootstrap/</link>
+      <link>http://www.garrardkitchen.com/tags/bootstrap/</link>
       <pubDate>Sun, 28 Apr 2019 16:38:24 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/bootstrap/</guid>
+      <guid>http://www.garrardkitchen.com/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>javascript</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/javascript/</link>
+      <link>http://www.garrardkitchen.com/tags/javascript/</link>
       <pubDate>Sun, 28 Apr 2019 16:38:24 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/javascript/</guid>
+      <guid>http://www.garrardkitchen.com/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mock up</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/mock-up/</link>
+      <link>http://www.garrardkitchen.com/tags/mock-up/</link>
       <pubDate>Sun, 28 Apr 2019 16:38:24 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/mock-up/</guid>
+      <guid>http://www.garrardkitchen.com/tags/mock-up/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ui</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ui/</link>
+      <link>http://www.garrardkitchen.com/tags/ui/</link>
       <pubDate>Sun, 28 Apr 2019 16:38:24 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ui/</guid>
+      <guid>http://www.garrardkitchen.com/tags/ui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>data connector</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/data-connector/</link>
+      <link>http://www.garrardkitchen.com/tags/data-connector/</link>
       <pubDate>Sun, 28 Apr 2019 16:30:38 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/data-connector/</guid>
+      <guid>http://www.garrardkitchen.com/tags/data-connector/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dependency injection</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/dependency-injection/</link>
+      <link>http://www.garrardkitchen.com/tags/dependency-injection/</link>
       <pubDate>Sun, 28 Apr 2019 16:30:38 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/dependency-injection/</guid>
+      <guid>http://www.garrardkitchen.com/tags/dependency-injection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>developer site</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/developer-site/</link>
+      <link>http://www.garrardkitchen.com/tags/developer-site/</link>
       <pubDate>Sun, 28 Apr 2019 16:30:38 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/developer-site/</guid>
+      <guid>http://www.garrardkitchen.com/tags/developer-site/</guid>
       <description></description>
     </item>
     
     <item>
       <title>documentation</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/documentation/</link>
+      <link>http://www.garrardkitchen.com/tags/documentation/</link>
       <pubDate>Sun, 28 Apr 2019 16:30:38 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/documentation/</guid>
+      <guid>http://www.garrardkitchen.com/tags/documentation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>integration tool</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/integration-tool/</link>
+      <link>http://www.garrardkitchen.com/tags/integration-tool/</link>
       <pubDate>Sun, 28 Apr 2019 16:30:38 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/integration-tool/</guid>
+      <guid>http://www.garrardkitchen.com/tags/integration-tool/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sdk</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/sdk/</link>
+      <link>http://www.garrardkitchen.com/tags/sdk/</link>
       <pubDate>Sun, 28 Apr 2019 16:30:38 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/sdk/</guid>
+      <guid>http://www.garrardkitchen.com/tags/sdk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>best practice</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/best-practice/</link>
+      <link>http://www.garrardkitchen.com/tags/best-practice/</link>
       <pubDate>Sun, 28 Apr 2019 16:29:00 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/best-practice/</guid>
+      <guid>http://www.garrardkitchen.com/tags/best-practice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>joint responsibility</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/joint-responsibility/</link>
+      <link>http://www.garrardkitchen.com/tags/joint-responsibility/</link>
       <pubDate>Sun, 28 Apr 2019 16:29:00 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/joint-responsibility/</guid>
+      <guid>http://www.garrardkitchen.com/tags/joint-responsibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>datadog</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/datadog/</link>
+      <link>http://www.garrardkitchen.com/tags/datadog/</link>
       <pubDate>Sun, 28 Apr 2019 16:24:21 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/datadog/</guid>
+      <guid>http://www.garrardkitchen.com/tags/datadog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>epsagon</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/epsagon/</link>
+      <link>http://www.garrardkitchen.com/tags/epsagon/</link>
       <pubDate>Sun, 28 Apr 2019 16:24:21 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/epsagon/</guid>
+      <guid>http://www.garrardkitchen.com/tags/epsagon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>opsgenie</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/opsgenie/</link>
+      <link>http://www.garrardkitchen.com/tags/opsgenie/</link>
       <pubDate>Sun, 28 Apr 2019 16:24:21 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/opsgenie/</guid>
+      <guid>http://www.garrardkitchen.com/tags/opsgenie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>sentry.io</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/sentry.io/</link>
+      <link>http://www.garrardkitchen.com/tags/sentry.io/</link>
       <pubDate>Sun, 28 Apr 2019 16:24:21 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/sentry.io/</guid>
+      <guid>http://www.garrardkitchen.com/tags/sentry.io/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ecs fargate</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ecs-fargate/</link>
+      <link>http://www.garrardkitchen.com/tags/ecs-fargate/</link>
       <pubDate>Sun, 28 Apr 2019 16:16:41 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ecs-fargate/</guid>
+      <guid>http://www.garrardkitchen.com/tags/ecs-fargate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>integrations</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/integrations/</link>
+      <link>http://www.garrardkitchen.com/tags/integrations/</link>
       <pubDate>Sun, 28 Apr 2019 16:16:41 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/integrations/</guid>
+      <guid>http://www.garrardkitchen.com/tags/integrations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>saas</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/saas/</link>
+      <link>http://www.garrardkitchen.com/tags/saas/</link>
       <pubDate>Sun, 28 Apr 2019 16:16:41 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/saas/</guid>
+      <guid>http://www.garrardkitchen.com/tags/saas/</guid>
       <description></description>
     </item>
     
     <item>
       <title>KendoUI</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/kendoui/</link>
+      <link>http://www.garrardkitchen.com/tags/kendoui/</link>
       <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/kendoui/</guid>
+      <guid>http://www.garrardkitchen.com/tags/kendoui/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RIA Services</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ria-services/</link>
+      <link>http://www.garrardkitchen.com/tags/ria-services/</link>
       <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ria-services/</guid>
+      <guid>http://www.garrardkitchen.com/tags/ria-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Telerik Silverlight</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/telerik-silverlight/</link>
+      <link>http://www.garrardkitchen.com/tags/telerik-silverlight/</link>
       <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/telerik-silverlight/</guid>
+      <guid>http://www.garrardkitchen.com/tags/telerik-silverlight/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ajax</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ajax/</link>
+      <link>http://www.garrardkitchen.com/tags/ajax/</link>
       <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ajax/</guid>
+      <guid>http://www.garrardkitchen.com/tags/ajax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>angular</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/angular/</link>
+      <link>http://www.garrardkitchen.com/tags/angular/</link>
       <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/angular/</guid>
+      <guid>http://www.garrardkitchen.com/tags/angular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/css/</link>
+      <link>http://www.garrardkitchen.com/tags/css/</link>
       <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/css/</guid>
+      <guid>http://www.garrardkitchen.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/html/</link>
+      <link>http://www.garrardkitchen.com/tags/html/</link>
       <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/html/</guid>
+      <guid>http://www.garrardkitchen.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>jquery</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/jquery/</link>
+      <link>http://www.garrardkitchen.com/tags/jquery/</link>
       <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/jquery/</guid>
+      <guid>http://www.garrardkitchen.com/tags/jquery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure Web App</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/azure-web-app/</link>
+      <link>http://www.garrardkitchen.com/tags/azure-web-app/</link>
       <pubDate>Sun, 28 Apr 2019 16:09:25 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/azure-web-app/</guid>
+      <guid>http://www.garrardkitchen.com/tags/azure-web-app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure mobile services</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/azure-mobile-services/</link>
+      <link>http://www.garrardkitchen.com/tags/azure-mobile-services/</link>
       <pubDate>Sun, 28 Apr 2019 16:09:25 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/azure-mobile-services/</guid>
+      <guid>http://www.garrardkitchen.com/tags/azure-mobile-services/</guid>
       <description></description>
     </item>
     
     <item>
       <title>node.js</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/node.js/</link>
+      <link>http://www.garrardkitchen.com/tags/node.js/</link>
       <pubDate>Sun, 28 Apr 2019 16:09:25 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/node.js/</guid>
+      <guid>http://www.garrardkitchen.com/tags/node.js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>service bus</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/service-bus/</link>
+      <link>http://www.garrardkitchen.com/tags/service-bus/</link>
       <pubDate>Sun, 28 Apr 2019 16:09:25 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/service-bus/</guid>
+      <guid>http://www.garrardkitchen.com/tags/service-bus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>table storage</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/table-storage/</link>
+      <link>http://www.garrardkitchen.com/tags/table-storage/</link>
       <pubDate>Sun, 28 Apr 2019 16:09:25 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/table-storage/</guid>
+      <guid>http://www.garrardkitchen.com/tags/table-storage/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Amazon Connect</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/amazon-connect/</link>
+      <link>http://www.garrardkitchen.com/tags/amazon-connect/</link>
       <pubDate>Sun, 28 Apr 2019 16:04:05 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/amazon-connect/</guid>
+      <guid>http://www.garrardkitchen.com/tags/amazon-connect/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws ami</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-ami/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-ami/</link>
       <pubDate>Sun, 28 Apr 2019 16:04:05 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-ami/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-ami/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws marketplace</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-marketplace/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-marketplace/</link>
       <pubDate>Sun, 28 Apr 2019 16:04:05 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-marketplace/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-marketplace/</guid>
       <description></description>
     </item>
     
     <item>
       <title>aws quick start</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-quick-start/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-quick-start/</link>
       <pubDate>Sun, 28 Apr 2019 16:04:05 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-quick-start/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-quick-start/</guid>
       <description></description>
     </item>
     
     <item>
       <title>cloudformation</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/cloudformation/</link>
+      <link>http://www.garrardkitchen.com/tags/cloudformation/</link>
       <pubDate>Sun, 28 Apr 2019 16:04:05 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/cloudformation/</guid>
+      <guid>http://www.garrardkitchen.com/tags/cloudformation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>configuration as code</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/configuration-as-code/</link>
+      <link>http://www.garrardkitchen.com/tags/configuration-as-code/</link>
       <pubDate>Sun, 28 Apr 2019 16:04:05 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/configuration-as-code/</guid>
+      <guid>http://www.garrardkitchen.com/tags/configuration-as-code/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SAM</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/sam/</link>
+      <link>http://www.garrardkitchen.com/tags/sam/</link>
       <pubDate>Sun, 28 Apr 2019 16:01:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/sam/</guid>
+      <guid>http://www.garrardkitchen.com/tags/sam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reduce cost</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/reduce-cost/</link>
+      <link>http://www.garrardkitchen.com/tags/reduce-cost/</link>
       <pubDate>Sun, 28 Apr 2019 16:01:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/reduce-cost/</guid>
+      <guid>http://www.garrardkitchen.com/tags/reduce-cost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reduce time to market</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/reduce-time-to-market/</link>
+      <link>http://www.garrardkitchen.com/tags/reduce-time-to-market/</link>
       <pubDate>Sun, 28 Apr 2019 16:01:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/reduce-time-to-market/</guid>
+      <guid>http://www.garrardkitchen.com/tags/reduce-time-to-market/</guid>
       <description></description>
     </item>
     
     <item>
       <title>serverless framework</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/serverless-framework/</link>
+      <link>http://www.garrardkitchen.com/tags/serverless-framework/</link>
       <pubDate>Sun, 28 Apr 2019 16:01:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/serverless-framework/</guid>
+      <guid>http://www.garrardkitchen.com/tags/serverless-framework/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws/</link>
+      <link>http://www.garrardkitchen.com/tags/aws/</link>
       <pubDate>Sun, 28 Apr 2019 15:56:30 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HA</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ha/</link>
+      <link>http://www.garrardkitchen.com/tags/ha/</link>
       <pubDate>Sun, 28 Apr 2019 15:56:30 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/ha/</guid>
+      <guid>http://www.garrardkitchen.com/tags/ha/</guid>
       <description></description>
     </item>
     
     <item>
       <title>multi-server</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/multi-server/</link>
+      <link>http://www.garrardkitchen.com/tags/multi-server/</link>
       <pubDate>Sun, 28 Apr 2019 15:56:30 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/multi-server/</guid>
+      <guid>http://www.garrardkitchen.com/tags/multi-server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>single-server</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/single-server/</link>
+      <link>http://www.garrardkitchen.com/tags/single-server/</link>
       <pubDate>Sun, 28 Apr 2019 15:56:30 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/single-server/</guid>
+      <guid>http://www.garrardkitchen.com/tags/single-server/</guid>
       <description></description>
     </item>
     
     <item>
       <title>devops</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/devops/</link>
+      <link>http://www.garrardkitchen.com/tags/devops/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/devops/</guid>
+      <guid>http://www.garrardkitchen.com/tags/devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>empowerment</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/empowerment/</link>
+      <link>http://www.garrardkitchen.com/tags/empowerment/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/empowerment/</guid>
+      <guid>http://www.garrardkitchen.com/tags/empowerment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>freedom</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/freedom/</link>
+      <link>http://www.garrardkitchen.com/tags/freedom/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/freedom/</guid>
+      <guid>http://www.garrardkitchen.com/tags/freedom/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS CodeBuild</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-codebuild/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-codebuild/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-codebuild/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-codebuild/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS CodeCommit</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-codecommit/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-codecommit/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-codecommit/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-codecommit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS CodeDeploy</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-codedeploy/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-codedeploy/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-codedeploy/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-codedeploy/</guid>
       <description></description>
     </item>
     
     <item>
       <title>AWS CodePipeLine</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-codepipeline/</link>
+      <link>http://www.garrardkitchen.com/tags/aws-codepipeline/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/aws-codepipeline/</guid>
+      <guid>http://www.garrardkitchen.com/tags/aws-codepipeline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Azure DevOps</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/azure-devops/</link>
+      <link>http://www.garrardkitchen.com/tags/azure-devops/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/azure-devops/</guid>
+      <guid>http://www.garrardkitchen.com/tags/azure-devops/</guid>
       <description></description>
     </item>
     
     <item>
       <title>BitBucket Pipelines</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/bitbucket-pipelines/</link>
+      <link>http://www.garrardkitchen.com/tags/bitbucket-pipelines/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/bitbucket-pipelines/</guid>
+      <guid>http://www.garrardkitchen.com/tags/bitbucket-pipelines/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GitHub</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/github/</link>
+      <link>http://www.garrardkitchen.com/tags/github/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/github/</guid>
+      <guid>http://www.garrardkitchen.com/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>continuous delivery</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/continuous-delivery/</link>
+      <link>http://www.garrardkitchen.com/tags/continuous-delivery/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/continuous-delivery/</guid>
+      <guid>http://www.garrardkitchen.com/tags/continuous-delivery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>continuous deployment</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/continuous-deployment/</link>
+      <link>http://www.garrardkitchen.com/tags/continuous-deployment/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/continuous-deployment/</guid>
+      <guid>http://www.garrardkitchen.com/tags/continuous-deployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>continuous integration</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/continuous-integration/</link>
+      <link>http://www.garrardkitchen.com/tags/continuous-integration/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/continuous-integration/</guid>
+      <guid>http://www.garrardkitchen.com/tags/continuous-integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Altitude</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/altitude/</link>
+      <link>http://www.garrardkitchen.com/tags/altitude/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/altitude/</guid>
+      <guid>http://www.garrardkitchen.com/tags/altitude/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comways</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/comways/</link>
+      <link>http://www.garrardkitchen.com/tags/comways/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/comways/</guid>
+      <guid>http://www.garrardkitchen.com/tags/comways/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DataVoice</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/datavoice/</link>
+      <link>http://www.garrardkitchen.com/tags/datavoice/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/datavoice/</guid>
+      <guid>http://www.garrardkitchen.com/tags/datavoice/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dubber</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/dubber/</link>
+      <link>http://www.garrardkitchen.com/tags/dubber/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/dubber/</guid>
+      <guid>http://www.garrardkitchen.com/tags/dubber/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Frequentis</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/frequentis/</link>
+      <link>http://www.garrardkitchen.com/tags/frequentis/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/frequentis/</guid>
+      <guid>http://www.garrardkitchen.com/tags/frequentis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Novo</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/novo/</link>
+      <link>http://www.garrardkitchen.com/tags/novo/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/novo/</guid>
+      <guid>http://www.garrardkitchen.com/tags/novo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Redbox</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/redbox/</link>
+      <link>http://www.garrardkitchen.com/tags/redbox/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/redbox/</guid>
+      <guid>http://www.garrardkitchen.com/tags/redbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Spitch</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/spitch/</link>
+      <link>http://www.garrardkitchen.com/tags/spitch/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/spitch/</guid>
+      <guid>http://www.garrardkitchen.com/tags/spitch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Telax</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/telax/</link>
+      <link>http://www.garrardkitchen.com/tags/telax/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/telax/</guid>
+      <guid>http://www.garrardkitchen.com/tags/telax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Twilio</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/twilio/</link>
+      <link>http://www.garrardkitchen.com/tags/twilio/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/twilio/</guid>
+      <guid>http://www.garrardkitchen.com/tags/twilio/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zendesk</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/zendesk/</link>
+      <link>http://www.garrardkitchen.com/tags/zendesk/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/zendesk/</guid>
+      <guid>http://www.garrardkitchen.com/tags/zendesk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>different cultures</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/different-cultures/</link>
+      <link>http://www.garrardkitchen.com/tags/different-cultures/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/different-cultures/</guid>
+      <guid>http://www.garrardkitchen.com/tags/different-cultures/</guid>
       <description></description>
     </item>
     
     <item>
       <title>different roles</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/different-roles/</link>
+      <link>http://www.garrardkitchen.com/tags/different-roles/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/different-roles/</guid>
+      <guid>http://www.garrardkitchen.com/tags/different-roles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>integration</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/integration/</link>
+      <link>http://www.garrardkitchen.com/tags/integration/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/integration/</guid>
+      <guid>http://www.garrardkitchen.com/tags/integration/</guid>
       <description></description>
     </item>
     
     <item>
       <title>project scope</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/project-scope/</link>
+      <link>http://www.garrardkitchen.com/tags/project-scope/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/project-scope/</guid>
+      <guid>http://www.garrardkitchen.com/tags/project-scope/</guid>
       <description></description>
     </item>
     
     <item>
       <title>training</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/training/</link>
+      <link>http://www.garrardkitchen.com/tags/training/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/training/</guid>
+      <guid>http://www.garrardkitchen.com/tags/training/</guid>
       <description></description>
     </item>
     
     <item>
       <title>world-wide</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/world-wide/</link>
+      <link>http://www.garrardkitchen.com/tags/world-wide/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/world-wide/</guid>
+      <guid>http://www.garrardkitchen.com/tags/world-wide/</guid>
       <description></description>
     </item>
     

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>step functions on GPK</title>
-    <link>https://github.com/garrardkitchen/garrardkitchen.github.io/tags/step-functions/</link>
+    <link>http://www.garrardkitchen.com/tags/step-functions/</link>
     <description>Recent content in step functions on GPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Apr 2019 17:22:33 +0100</lastBuildDate>
     
-	<atom:link href="https://github.com/garrardkitchen/garrardkitchen.github.io/tags/step-functions/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.garrardkitchen.com/tags/step-functions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>IntelliSearch</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/projects/intellisearch/</link>
+      <link>http://www.garrardkitchen.com/projects/intellisearch/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/projects/intellisearch/</guid>
+      <guid>http://www.garrardkitchen.com/projects/intellisearch/</guid>
       <description>Coach has a long standing feature called IntelliSearch.
 It is a feature that, at a specific time, for several set periods [daily, weekly, monthly, custom], it will submit queries to a Data Connector (conduit between our system and an external system) to match up randomly selected recordings for later evaluation. The random algorithm implemented is there to ensure fairness of recording selection so apples and apples are compared and not apples to oranges.</description>
     </item>
     
     <item>
       <title>CXcoach</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/projects/cxcoach/</link>
+      <link>http://www.garrardkitchen.com/projects/cxcoach/</link>
       <pubDate>Sun, 28 Apr 2019 16:16:41 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/projects/cxcoach/</guid>
+      <guid>http://www.garrardkitchen.com/projects/cxcoach/</guid>
       <description>Created an SaaS version of our product on the AWS platform using serverless tech as an enabler to lowering the running costs and as such, make it cheaper for the vendor/partner to offer our product to their end-clients I have been responsible for driving the integrations with major vendors Made presentations to prospective partners [CEO and below] nd helped shape requirements of the integration Platform required a new set of UX principles</description>
     </item>
     
     <item>
       <title>Serverless</title>
-      <link>https://github.com/garrardkitchen/garrardkitchen.github.io/projects/serverless/</link>
+      <link>http://www.garrardkitchen.com/projects/serverless/</link>
       <pubDate>Sun, 28 Apr 2019 16:01:53 +0100</pubDate>
       
-      <guid>https://github.com/garrardkitchen/garrardkitchen.github.io/projects/serverless/</guid>
+      <guid>http://www.garrardkitchen.com/projects/serverless/</guid>
       <description>Investigated ways to reduce time to market, end-client license costs, hosting costs and development costs.
 This research and later development efforts contributed to formulating and maintaining a best practice set of guidelines/principals covering all frameworks and languages employed to deliver a solution [product, automation and integrations].
  Used both Serverless Framework and SAM. I use several IDEs, dependant on task/requirement, mainly VSCode, Rider, PyCharm and VS.
