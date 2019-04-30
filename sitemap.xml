@@ -255,12 +255,6 @@
   </url>
   
   <url>
-    <loc>http://www.garrardkitchen.com/tags/ci/cd/</loc>
-    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.garrardkitchen.com/tags/aws-api-gateway/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
@@ -268,6 +262,12 @@
   
   <url>
     <loc>http://www.garrardkitchen.com/tags/aws-sam/</loc>
+    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/ci/cd/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -333,12 +333,6 @@
   </url>
   
   <url>
-    <loc>http://www.garrardkitchen.com/tags/nats/</loc>
-    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.garrardkitchen.com/tags/akka.net/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
@@ -358,6 +352,12 @@
   
   <url>
     <loc>http://www.garrardkitchen.com/tags/lambdas/</loc>
+    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/nats/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -399,6 +399,12 @@
   </url>
   
   <url>
+    <loc>http://www.garrardkitchen.com/tags/restful-api/</loc>
+    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.garrardkitchen.com/tags/asp.net-core/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
@@ -430,12 +436,6 @@
   
   <url>
     <loc>http://www.garrardkitchen.com/tags/mssql/</loc>
-    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.garrardkitchen.com/tags/restful-api/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
   </url>
