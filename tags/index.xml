@@ -147,6 +147,15 @@
     </item>
     
     <item>
+      <title>CI/CD</title>
+      <link>http://www.garrardkitchen.com/tags/ci/cd/</link>
+      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>aws api gateway</title>
       <link>http://www.garrardkitchen.com/tags/aws-api-gateway/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
@@ -161,15 +170,6 @@
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/aws-sam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ci/cd</title>
-      <link>http://www.garrardkitchen.com/tags/ci/cd/</link>
-      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/ci/cd/</guid>
       <description></description>
     </item>
     
@@ -363,15 +363,6 @@
     </item>
     
     <item>
-      <title>RESTful API</title>
-      <link>http://www.garrardkitchen.com/tags/restful-api/</link>
-      <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/restful-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>asp.net core</title>
       <link>http://www.garrardkitchen.com/tags/asp.net-core/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
@@ -422,6 +413,15 @@
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/mssql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restful api</title>
+      <link>http://www.garrardkitchen.com/tags/restful-api/</link>
+      <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/restful-api/</guid>
       <description></description>
     </item>
     
@@ -498,15 +498,6 @@
     </item>
     
     <item>
-      <title>CX</title>
-      <link>http://www.garrardkitchen.com/tags/cx/</link>
-      <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/cx/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lambda lb target</title>
       <link>http://www.garrardkitchen.com/tags/lambda-lb-target/</link>
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
@@ -521,6 +512,15 @@
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/alb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cx</title>
+      <link>http://www.garrardkitchen.com/tags/cx/</link>
+      <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/cx/</guid>
       <description></description>
     </item>
     
