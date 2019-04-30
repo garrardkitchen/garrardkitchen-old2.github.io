@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Resume</title>
+      <link>http://www.garrardkitchen.com/projects/resume/</link>
+      <pubDate>Tue, 30 Apr 2019 08:46:29 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/projects/resume/</guid>
+      <description> Assess whether or not to update existing non-maintained Jekyll site Researched other options Experimented with Hugo and different templaes (focus on resume style), expedited learning curve Complete resume rewrite in 3 days Configured GitHub pages and custom domain Configured Google Analytics  </description>
+    </item>
+    
+    <item>
       <title>Corporate Website</title>
       <link>http://www.garrardkitchen.com/projects/corporate-website/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
