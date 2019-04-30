@@ -327,12 +327,6 @@
   </url>
   
   <url>
-    <loc>http://www.garrardkitchen.com/tags/restful-api/</loc>
-    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.garrardkitchen.com/tags/asp.net-core/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
@@ -364,6 +358,12 @@
   
   <url>
     <loc>http://www.garrardkitchen.com/tags/mssql/</loc>
+    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/restful-api/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
   </url>
@@ -417,12 +417,6 @@
   </url>
   
   <url>
-    <loc>http://www.garrardkitchen.com/tags/cx/</loc>
-    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.garrardkitchen.com/tags/lambda-lb-target/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
@@ -430,6 +424,12 @@
   
   <url>
     <loc>http://www.garrardkitchen.com/tags/alb/</loc>
+    <lastmod>2019-04-28T17:34:31+01:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.garrardkitchen.com/tags/cx/</loc>
     <lastmod>2019-04-28T17:34:31+01:00</lastmod>
     <priority>0</priority>
   </url>
