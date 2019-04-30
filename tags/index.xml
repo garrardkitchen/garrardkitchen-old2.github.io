@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>CI/CD</title>
+      <link>http://www.garrardkitchen.com/tags/ci/cd/</link>
+      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>aws api gateway</title>
       <link>http://www.garrardkitchen.com/tags/aws-api-gateway/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
@@ -26,15 +35,6 @@
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/aws-sam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ci/cd</title>
-      <link>http://www.garrardkitchen.com/tags/ci/cd/</link>
-      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/ci/cd/</guid>
       <description></description>
     </item>
     
@@ -129,6 +129,15 @@
     </item>
     
     <item>
+      <title>NATS</title>
+      <link>http://www.garrardkitchen.com/tags/nats/</link>
+      <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/nats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>akka.net</title>
       <link>http://www.garrardkitchen.com/tags/akka.net/</link>
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
@@ -161,15 +170,6 @@
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/lambdas/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nats</title>
-      <link>http://www.garrardkitchen.com/tags/nats/</link>
-      <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/nats/</guid>
       <description></description>
     </item>
     
@@ -269,6 +269,15 @@
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/aws-dms/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ecs fargate</title>
+      <link>http://www.garrardkitchen.com/tags/ecs-fargate/</link>
+      <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/ecs-fargate/</guid>
       <description></description>
     </item>
     
@@ -602,15 +611,6 @@
       <pubDate>Sun, 28 Apr 2019 16:24:21 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/sentry.io/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ecs fargate</title>
-      <link>http://www.garrardkitchen.com/tags/ecs-fargate/</link>
-      <pubDate>Sun, 28 Apr 2019 16:16:41 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/ecs-fargate/</guid>
       <description></description>
     </item>
     

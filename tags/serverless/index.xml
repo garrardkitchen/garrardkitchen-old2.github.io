@@ -32,6 +32,16 @@ Some examples of these are; setting log retention durations on log group creatio
     </item>
     
     <item>
+      <title>Migrations</title>
+      <link>http://www.garrardkitchen.com/projects/migrations/</link>
+      <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/projects/migrations/</guid>
+      <description>Migrate Coach product away from a monolyth to being 100% serverless. Main web platform hosted via ECS Fargate and all features, RESTul APIs be Lambda backed API Gateways and Step Functions. Data repositories used are dynamoDB, ElasticSearch, Amazon Aurora (mySQL), Redis and S3.
+ Coach migrated from MSSQL to MySQL as costs were too high for Always-On capabilities. I was accepted onto Aurora MySQL Preview programme and contributed to this phase.</description>
+    </item>
+    
+    <item>
       <title>Observability</title>
       <link>http://www.garrardkitchen.com/projects/observability/</link>
       <pubDate>Sun, 28 Apr 2019 16:24:21 +0100</pubDate>
