@@ -147,29 +147,20 @@
     </item>
     
     <item>
-      <title>aws api gateway</title>
-      <link>http://www.garrardkitchen.com/tags/aws-api-gateway/</link>
-      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/aws-api-gateway/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>aws sam</title>
-      <link>http://www.garrardkitchen.com/tags/aws-sam/</link>
-      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/aws-sam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ci/cd</title>
+      <title>CI/CD</title>
       <link>http://www.garrardkitchen.com/tags/ci/cd/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/ci/cd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>api gateway</title>
+      <link>http://www.garrardkitchen.com/tags/api-gateway/</link>
+      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/api-gateway/</guid>
       <description></description>
     </item>
     
@@ -183,6 +174,15 @@
     </item>
     
     <item>
+      <title>serverless application model</title>
+      <link>http://www.garrardkitchen.com/tags/serverless-application-model/</link>
+      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/serverless-application-model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>athena</title>
       <link>http://www.garrardkitchen.com/tags/athena/</link>
       <pubDate>Sun, 28 Apr 2019 17:29:12 +0100</pubDate>
@@ -192,11 +192,11 @@
     </item>
     
     <item>
-      <title>aws data pipelines</title>
-      <link>http://www.garrardkitchen.com/tags/aws-data-pipelines/</link>
+      <title>data pipelines</title>
+      <link>http://www.garrardkitchen.com/tags/data-pipelines/</link>
       <pubDate>Sun, 28 Apr 2019 17:29:12 +0100</pubDate>
       
-      <guid>http://www.garrardkitchen.com/tags/aws-data-pipelines/</guid>
+      <guid>http://www.garrardkitchen.com/tags/data-pipelines/</guid>
       <description></description>
     </item>
     
@@ -269,15 +269,6 @@
       <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/akka.net/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>api gateway</title>
-      <link>http://www.garrardkitchen.com/tags/api-gateway/</link>
-      <pubDate>Sun, 28 Apr 2019 17:22:33 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/api-gateway/</guid>
       <description></description>
     </item>
     
@@ -363,15 +354,6 @@
     </item>
     
     <item>
-      <title>RESTful API</title>
-      <link>http://www.garrardkitchen.com/tags/restful-api/</link>
-      <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/restful-api/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>asp.net core</title>
       <link>http://www.garrardkitchen.com/tags/asp.net-core/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
@@ -422,6 +404,15 @@
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/mssql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>restful api</title>
+      <link>http://www.garrardkitchen.com/tags/restful-api/</link>
+      <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/restful-api/</guid>
       <description></description>
     </item>
     
@@ -498,15 +489,6 @@
     </item>
     
     <item>
-      <title>Lambda lb target</title>
-      <link>http://www.garrardkitchen.com/tags/lambda-lb-target/</link>
-      <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/lambda-lb-target/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>alb</title>
       <link>http://www.garrardkitchen.com/tags/alb/</link>
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
@@ -530,6 +512,15 @@
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/http/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lambda load balancer target</title>
+      <link>http://www.garrardkitchen.com/tags/lambda-load-balancer-target/</link>
+      <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/lambda-load-balancer-target/</guid>
       <description></description>
     </item>
     
@@ -768,33 +759,6 @@
     </item>
     
     <item>
-      <title>KendoUI</title>
-      <link>http://www.garrardkitchen.com/tags/kendoui/</link>
-      <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/kendoui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RIA Services</title>
-      <link>http://www.garrardkitchen.com/tags/ria-services/</link>
-      <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/ria-services/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Telerik Silverlight</title>
-      <link>http://www.garrardkitchen.com/tags/telerik-silverlight/</link>
-      <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/telerik-silverlight/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>ajax</title>
       <link>http://www.garrardkitchen.com/tags/ajax/</link>
       <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
@@ -840,20 +804,47 @@
     </item>
     
     <item>
-      <title>Azure Web App</title>
-      <link>http://www.garrardkitchen.com/tags/azure-web-app/</link>
-      <pubDate>Sun, 28 Apr 2019 16:09:25 +0100</pubDate>
+      <title>kendoui</title>
+      <link>http://www.garrardkitchen.com/tags/kendoui/</link>
+      <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
       
-      <guid>http://www.garrardkitchen.com/tags/azure-web-app/</guid>
+      <guid>http://www.garrardkitchen.com/tags/kendoui/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Azure mobile services</title>
+      <title>ria services</title>
+      <link>http://www.garrardkitchen.com/tags/ria-services/</link>
+      <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/ria-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telerik silverlight</title>
+      <link>http://www.garrardkitchen.com/tags/telerik-silverlight/</link>
+      <pubDate>Sun, 28 Apr 2019 16:13:20 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/telerik-silverlight/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure mobile services</title>
       <link>http://www.garrardkitchen.com/tags/azure-mobile-services/</link>
       <pubDate>Sun, 28 Apr 2019 16:09:25 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/azure-mobile-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>azure web services</title>
+      <link>http://www.garrardkitchen.com/tags/azure-web-services/</link>
+      <pubDate>Sun, 28 Apr 2019 16:09:25 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/azure-web-services/</guid>
       <description></description>
     </item>
     
@@ -885,7 +876,7 @@
     </item>
     
     <item>
-      <title>Amazon Connect</title>
+      <title>amazon connect</title>
       <link>http://www.garrardkitchen.com/tags/amazon-connect/</link>
       <pubDate>Sun, 28 Apr 2019 16:04:05 +0100</pubDate>
       
@@ -939,15 +930,6 @@
     </item>
     
     <item>
-      <title>SAM</title>
-      <link>http://www.garrardkitchen.com/tags/sam/</link>
-      <pubDate>Sun, 28 Apr 2019 16:01:53 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/sam/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>reduce cost</title>
       <link>http://www.garrardkitchen.com/tags/reduce-cost/</link>
       <pubDate>Sun, 28 Apr 2019 16:01:53 +0100</pubDate>
@@ -975,7 +957,7 @@
     </item>
     
     <item>
-      <title>AWS</title>
+      <title>aws</title>
       <link>http://www.garrardkitchen.com/tags/aws/</link>
       <pubDate>Sun, 28 Apr 2019 15:56:30 +0100</pubDate>
       
@@ -984,11 +966,11 @@
     </item>
     
     <item>
-      <title>HA</title>
-      <link>http://www.garrardkitchen.com/tags/ha/</link>
+      <title>high availability</title>
+      <link>http://www.garrardkitchen.com/tags/high-availability/</link>
       <pubDate>Sun, 28 Apr 2019 15:56:30 +0100</pubDate>
       
-      <guid>http://www.garrardkitchen.com/tags/ha/</guid>
+      <guid>http://www.garrardkitchen.com/tags/high-availability/</guid>
       <description></description>
     </item>
     
@@ -998,6 +980,15 @@
       <pubDate>Sun, 28 Apr 2019 15:56:30 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/multi-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>nats.io</title>
+      <link>http://www.garrardkitchen.com/tags/nats.io/</link>
+      <pubDate>Sun, 28 Apr 2019 15:56:30 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/nats.io/</guid>
       <description></description>
     </item>
     
@@ -1038,43 +1029,7 @@
     </item>
     
     <item>
-      <title>AWS CodeBuild</title>
-      <link>http://www.garrardkitchen.com/tags/aws-codebuild/</link>
-      <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/aws-codebuild/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AWS CodeCommit</title>
-      <link>http://www.garrardkitchen.com/tags/aws-codecommit/</link>
-      <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/aws-codecommit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AWS CodeDeploy</title>
-      <link>http://www.garrardkitchen.com/tags/aws-codedeploy/</link>
-      <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/aws-codedeploy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>AWS CodePipeLine</title>
-      <link>http://www.garrardkitchen.com/tags/aws-codepipeline/</link>
-      <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/aws-codepipeline/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Azure DevOps</title>
+      <title>azure devops</title>
       <link>http://www.garrardkitchen.com/tags/azure-devops/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
@@ -1083,7 +1038,7 @@
     </item>
     
     <item>
-      <title>BitBucket Pipelines</title>
+      <title>bitbucket pipelines</title>
       <link>http://www.garrardkitchen.com/tags/bitbucket-pipelines/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
@@ -1092,11 +1047,38 @@
     </item>
     
     <item>
-      <title>GitHub</title>
-      <link>http://www.garrardkitchen.com/tags/github/</link>
+      <title>codebuild</title>
+      <link>http://www.garrardkitchen.com/tags/codebuild/</link>
       <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
       
-      <guid>http://www.garrardkitchen.com/tags/github/</guid>
+      <guid>http://www.garrardkitchen.com/tags/codebuild/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codecommit</title>
+      <link>http://www.garrardkitchen.com/tags/codecommit/</link>
+      <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/codecommit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codedeploy</title>
+      <link>http://www.garrardkitchen.com/tags/codedeploy/</link>
+      <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/codedeploy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>codepipeLine</title>
+      <link>http://www.garrardkitchen.com/tags/codepipeline/</link>
+      <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/codepipeline/</guid>
       <description></description>
     </item>
     
@@ -1128,7 +1110,16 @@
     </item>
     
     <item>
-      <title>Altitude</title>
+      <title>github</title>
+      <link>http://www.garrardkitchen.com/tags/github/</link>
+      <pubDate>Sun, 28 Apr 2019 15:35:31 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>altitude</title>
       <link>http://www.garrardkitchen.com/tags/altitude/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
@@ -1137,7 +1128,7 @@
     </item>
     
     <item>
-      <title>Comways</title>
+      <title>comways</title>
       <link>http://www.garrardkitchen.com/tags/comways/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
@@ -1146,83 +1137,11 @@
     </item>
     
     <item>
-      <title>DataVoice</title>
+      <title>datavoice</title>
       <link>http://www.garrardkitchen.com/tags/datavoice/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/datavoice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Dubber</title>
-      <link>http://www.garrardkitchen.com/tags/dubber/</link>
-      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/dubber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Frequentis</title>
-      <link>http://www.garrardkitchen.com/tags/frequentis/</link>
-      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/frequentis/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Novo</title>
-      <link>http://www.garrardkitchen.com/tags/novo/</link>
-      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/novo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Redbox</title>
-      <link>http://www.garrardkitchen.com/tags/redbox/</link>
-      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/redbox/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spitch</title>
-      <link>http://www.garrardkitchen.com/tags/spitch/</link>
-      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/spitch/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Telax</title>
-      <link>http://www.garrardkitchen.com/tags/telax/</link>
-      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/telax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Twilio</title>
-      <link>http://www.garrardkitchen.com/tags/twilio/</link>
-      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/twilio/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zendesk</title>
-      <link>http://www.garrardkitchen.com/tags/zendesk/</link>
-      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/zendesk/</guid>
       <description></description>
     </item>
     
@@ -1245,11 +1164,38 @@
     </item>
     
     <item>
+      <title>dubber</title>
+      <link>http://www.garrardkitchen.com/tags/dubber/</link>
+      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/dubber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>frequentis</title>
+      <link>http://www.garrardkitchen.com/tags/frequentis/</link>
+      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/frequentis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>integration</title>
       <link>http://www.garrardkitchen.com/tags/integration/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/integration/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>novo</title>
+      <link>http://www.garrardkitchen.com/tags/novo/</link>
+      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/novo/</guid>
       <description></description>
     </item>
     
@@ -1263,6 +1209,33 @@
     </item>
     
     <item>
+      <title>redbox</title>
+      <link>http://www.garrardkitchen.com/tags/redbox/</link>
+      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/redbox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>spitch</title>
+      <link>http://www.garrardkitchen.com/tags/spitch/</link>
+      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/spitch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>telax</title>
+      <link>http://www.garrardkitchen.com/tags/telax/</link>
+      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/telax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>training</title>
       <link>http://www.garrardkitchen.com/tags/training/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
@@ -1272,11 +1245,29 @@
     </item>
     
     <item>
+      <title>twilio</title>
+      <link>http://www.garrardkitchen.com/tags/twilio/</link>
+      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/twilio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>world-wide</title>
       <link>http://www.garrardkitchen.com/tags/world-wide/</link>
       <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/world-wide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>zendesk</title>
+      <link>http://www.garrardkitchen.com/tags/zendesk/</link>
+      <pubDate>Sun, 28 Apr 2019 15:22:47 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/zendesk/</guid>
       <description></description>
     </item>
     

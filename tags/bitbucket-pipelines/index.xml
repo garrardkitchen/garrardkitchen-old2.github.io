@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>BitBucket Pipelines on GPK</title>
+    <title>bitbucket pipelines on GPK</title>
     <link>http://www.garrardkitchen.com/tags/bitbucket-pipelines/</link>
-    <description>Recent content in BitBucket Pipelines on GPK</description>
+    <description>Recent content in bitbucket pipelines on GPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Apr 2019 15:35:31 +0100</lastBuildDate>
