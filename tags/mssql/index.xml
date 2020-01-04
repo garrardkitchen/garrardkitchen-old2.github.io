@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>mssql on GPK</title>
@@ -13,12 +13,12 @@
     
     <item>
       <title>Migrations</title>
-      <link>http://www.garrardkitchen.com/projects/migrations/</link>
+      <link>http://www.garrardkitchen.com/projects/all/migrations/</link>
       <pubDate>Sun, 28 Apr 2019 17:16:53 +0100</pubDate>
       
-      <guid>http://www.garrardkitchen.com/projects/migrations/</guid>
+      <guid>http://www.garrardkitchen.com/projects/all/migrations/</guid>
       <description>Migrate Coach product away from a monolyth to being 100% serverless. Main web platform hosted via ECS Fargate and all features, RESTul APIs be Lambda backed API Gateways and Step Functions. Data repositories used are dynamoDB, ElasticSearch, Amazon Aurora (mySQL), Redis and S3.
- Coach migrated from MSSQL to MySQL as costs were too high for Always-On capabilities. I was accepted onto Aurora MySQL Preview programme and contributed to this phase.</description>
+  Coach migrated from MSSQL to MySQL as costs were too high for Always-On capabilities. I was accepted onto Aurora MySQL Preview programme and contributed to this phase.</description>
     </item>
     
   </channel>

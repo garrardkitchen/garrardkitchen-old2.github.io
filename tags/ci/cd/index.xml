@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CI/CD on GPK</title>
@@ -13,19 +13,19 @@
     
     <item>
       <title>Corporate Website</title>
-      <link>http://www.garrardkitchen.com/projects/corporate-website/</link>
+      <link>http://www.garrardkitchen.com/projects/all/corporate-website/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
-      <guid>http://www.garrardkitchen.com/projects/corporate-website/</guid>
+      <guid>http://www.garrardkitchen.com/projects/all/corporate-website/</guid>
       <description> Used mainly static content and ported new copy/layout to SAM Serverless Application C# .NET Core Razor Pages solution. Originally WP was in place, so removing MySQL reduced the cost. I created a CI/CD Pipeline using BitBucket. It is now hosted via API Gateway &amp;amp; Lambda and not via an Azure Website.  </description>
     </item>
     
     <item>
       <title>Streamline deployment of HA app</title>
-      <link>http://www.garrardkitchen.com/projects/ha/</link>
+      <link>http://www.garrardkitchen.com/projects/all/ha/</link>
       <pubDate>Sun, 28 Apr 2019 15:56:30 +0100</pubDate>
       
-      <guid>http://www.garrardkitchen.com/projects/ha/</guid>
+      <guid>http://www.garrardkitchen.com/projects/all/ha/</guid>
       <description>The Coach product started as an on-prem application, installed behind the firewall on a single server.
 A partner made a request for the product [Coach] to be made highly available. Initially the product was hosted via an active/passive configuration. This was superseded by a load balanced active/active configuration through the application of Akka.NET throughout all components. This enabled an application cluster that could load balance the demands across all components.</description>
     </item>

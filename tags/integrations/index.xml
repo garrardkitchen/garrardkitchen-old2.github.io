@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>integrations on GPK</title>
@@ -13,11 +13,13 @@
     
     <item>
       <title>CXcoach</title>
-      <link>http://www.garrardkitchen.com/projects/cxcoach/</link>
+      <link>http://www.garrardkitchen.com/projects/all/cxcoach/</link>
       <pubDate>Sun, 28 Apr 2019 16:16:41 +0100</pubDate>
       
-      <guid>http://www.garrardkitchen.com/projects/cxcoach/</guid>
-      <description>Created an SaaS version of our product on the AWS platform using serverless tech as an enabler to lowering the running costs and as such, make it cheaper for the vendor/partner to offer our product to their end-clients I have been responsible for driving the integrations with major vendors Made presentations to prospective partners [CEO and below] nd helped shape requirements of the integration Platform required a new set of UX principles</description>
+      <guid>http://www.garrardkitchen.com/projects/all/cxcoach/</guid>
+      <description>Created an SaaS version of our product on the AWS platform using serverless tech as an enabler to lowering the running costs and as such, make it cheaper for the vendor/partner to offer our product to their end-clients
+  I have been responsible for driving the integrations with major vendors
+  Made presentations to prospective partners [CEO and below] nd helped shape requirements of the integration</description>
     </item>
     
   </channel>

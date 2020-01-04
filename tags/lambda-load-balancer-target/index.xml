@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>lambda load balancer target on GPK</title>
@@ -13,12 +13,11 @@
     
     <item>
       <title>Health of the SaaS product</title>
-      <link>http://www.garrardkitchen.com/projects/health/</link>
+      <link>http://www.garrardkitchen.com/projects/all/health/</link>
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
       
-      <guid>http://www.garrardkitchen.com/projects/health/</guid>
-      <description>For me, CX (Customer Experience) is paramount.
- Even if there is an outage, the CX doesn’t have to suffer. In my current project, there are key AWS services, as well as the CXcoach product, that are required to be running for the application to function. I have architected both full systems and application features in such a way for them not to fail because of transient outages or worse and furthermore to provide instant feedback to users.</description>
+      <guid>http://www.garrardkitchen.com/projects/all/health/</guid>
+      <description>For me, CX (Customer Experience) is paramount. Even if there is an outage, the CX doesn’t have to suffer. In my current project, there are key AWS services, as well as the CXcoach product, that are required to be running for the application to function. I have architected both full systems and application features in such a way for them not to fail because of transient outages or worse and furthermore to provide instant feedback to users.</description>
     </item>
     
   </channel>

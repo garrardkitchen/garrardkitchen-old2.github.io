@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on GPK</title>
@@ -147,20 +147,20 @@
     </item>
     
     <item>
-      <title>CI/CD</title>
-      <link>http://www.garrardkitchen.com/tags/ci/cd/</link>
-      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/ci/cd/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>api gateway</title>
       <link>http://www.garrardkitchen.com/tags/api-gateway/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/tags/api-gateway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CI/CD</title>
+      <link>http://www.garrardkitchen.com/tags/ci/cd/</link>
+      <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/ci/cd/</guid>
       <description></description>
     </item>
     
@@ -516,7 +516,7 @@
     </item>
     
     <item>
-      <title>cx</title>
+      <title>CX</title>
       <link>http://www.garrardkitchen.com/tags/cx/</link>
       <pubDate>Sun, 28 Apr 2019 17:09:54 +0100</pubDate>
       
