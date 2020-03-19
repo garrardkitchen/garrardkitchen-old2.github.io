@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>hugo on GPK</title>
+    <title>Hugo on GPK</title>
     <link>http://www.garrardkitchen.com/tags/hugo/</link>
-    <description>Recent content in hugo on GPK</description>
+    <description>Recent content in Hugo on GPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Apr 2019 08:46:29 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 11:49:14 +0100</lastBuildDate>
     
 	<atom:link href="http://www.garrardkitchen.com/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,6 +18,18 @@
       
       <guid>http://www.garrardkitchen.com/projects/all/resume/</guid>
       <description> Assessed whether or not to update existing non-maintained Jekyll site to promote myself Researched other options (e.g. Hugo) Experimented with Hugo and different templaes (focus on resume style) Expedited my learning curve Completed resume rewrite in 3 days Configured GitHub pages and custom domain Configured Google Analytics  </description>
+    </item>
+    
+    <item>
+      <title>Good Engineering - Principles</title>
+      <link>http://www.garrardkitchen.com/blog/principles/</link>
+      <pubDate>Mon, 27 Jan 2020 11:49:14 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/blog/principles/</guid>
+      <description>Most Engineers are fully versed in the foundations of writing quality, efficient, succinct and testable code. As a Principal Engineer, one of my responsibilities is to ensure that this baseline is (1) understood and (2) adhered to by all engineers.
+Here&#39;s a list of concepts that for me, constitute good engineering principles:
+These are in alphabetical order and not in order of importance
+ Clean and readable code Code reviews Coding standards Composition over inheritance Defensive coding Do no more DRY KISS Occam&#39;s razor Premature optimization Refactor Separation of Concerns SOLID Testing YAGNI  Clean and readable code Clean and readable code is always better than clever code (ask any engineer who has to extend or maintain a clever piece of code!</description>
     </item>
     
   </channel>

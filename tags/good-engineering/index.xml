@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on GPK</title>
-    <link>http://www.garrardkitchen.com/blog/</link>
-    <description>Recent content in Blog on GPK</description>
+    <title>good engineering on GPK</title>
+    <link>http://www.garrardkitchen.com/tags/good-engineering/</link>
+    <description>Recent content in good engineering on GPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jan 2020 11:49:14 +0100</lastBuildDate>
     
-	<atom:link href="http://www.garrardkitchen.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.garrardkitchen.com/tags/good-engineering/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>

@@ -6,10 +6,46 @@
     <description>Recent content in Tags on GPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Apr 2019 11:47:28 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 11:49:14 +0100</lastBuildDate>
     
 	<atom:link href="http://www.garrardkitchen.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>blogging</title>
+      <link>http://www.garrardkitchen.com/tags/blogging/</link>
+      <pubDate>Mon, 27 Jan 2020 11:49:14 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/blogging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>good engineering</title>
+      <link>http://www.garrardkitchen.com/tags/good-engineering/</link>
+      <pubDate>Mon, 27 Jan 2020 11:49:14 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/good-engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://www.garrardkitchen.com/tags/hugo/</link>
+      <pubDate>Mon, 27 Jan 2020 11:49:14 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>principles</title>
+      <link>http://www.garrardkitchen.com/tags/principles/</link>
+      <pubDate>Mon, 27 Jan 2020 11:49:14 +0100</pubDate>
+      
+      <guid>http://www.garrardkitchen.com/tags/principles/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>at rest</title>
@@ -120,15 +156,6 @@
     </item>
     
     <item>
-      <title>hugo</title>
-      <link>http://www.garrardkitchen.com/tags/hugo/</link>
-      <pubDate>Tue, 30 Apr 2019 08:46:29 +0100</pubDate>
-      
-      <guid>http://www.garrardkitchen.com/tags/hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>short deadline</title>
       <link>http://www.garrardkitchen.com/tags/short-deadline/</link>
       <pubDate>Tue, 30 Apr 2019 08:46:29 +0100</pubDate>
@@ -156,7 +183,7 @@
     </item>
     
     <item>
-      <title>CI/CD</title>
+      <title>ci/cd</title>
       <link>http://www.garrardkitchen.com/tags/ci/cd/</link>
       <pubDate>Sun, 28 Apr 2019 17:31:27 +0100</pubDate>
       
