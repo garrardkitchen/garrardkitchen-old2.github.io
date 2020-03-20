@@ -6,7 +6,7 @@
     <description>Recent content in principles on GPK</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 Jan 2020 11:49:14 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 01 Mar 2020 20:09:14 +0100</lastBuildDate>
     
 	<atom:link href="http://www.garrardkitchen.com/tags/principles/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Good Engineering - Principles</title>
       <link>http://www.garrardkitchen.com/blog/principles/</link>
-      <pubDate>Mon, 27 Jan 2020 11:49:14 +0100</pubDate>
+      <pubDate>Sun, 01 Mar 2020 20:09:14 +0100</pubDate>
       
       <guid>http://www.garrardkitchen.com/blog/principles/</guid>
       <description>Most Engineers are fully versed in the foundations of writing quality, efficient, succinct and testable code. As a Principal Engineer, one of my responsibilities is to ensure that this baseline is (1) understood and (2) adhered to by all engineers.
