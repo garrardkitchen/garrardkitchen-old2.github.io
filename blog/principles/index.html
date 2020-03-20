@@ -158,8 +158,8 @@
 <p>If you code outside the scope, you're in danger of creating code that isn't used or needed.  The worse thing about this is that others will have to maintain this code.  How can this be?  Well, it's common - think <strong>HTTP chaining</strong> - for code not to be culled especially if there is a disconnect between these dependencies and there's no IDE/compiler to shout at you.</p>
 <h2 id="dry"><a href="">DRY</a></h2>
 <p>(don't repeat yourself)</p>
-<p><strong>Code analysis</strong> tools help there but you're not always going to have access to these tools.</p>
-<p>One way to help identify code that does the same thing is by <strong>refactoring</strong>.  If you keep your code method frame small (~20 lines), and you have a good naming standard for methods, etc then this should be all you need to help you writing duplicate code.</p>
+<p><strong>Code analysis</strong> tools help here, but you're not always going to have access to these tools.</p>
+<p>One way to help identify code that does the same thing is by <strong>refactoring</strong>.  If you keep your code method frame small (~20 lines), and you have a good naming standard for methods (e.g. noun+verb with accurate alighment to business capability - think DDD), have unit tests with a high <strong>code coverage</strong> percentage, then this should be all you need to help you avoid writing duplicate code.</p>
 <h2 id="kiss"><a href="">KISS</a></h2>
 <p>(keep it simple, silly)</p>
 <p>This to a certain extent, goes hand in hand with avoiding <strong>premature optimization</strong>.  We all like the big picture  yes? This doesn't mean we need to do deliver on this it right now! You just need to know the boundaries of this piece, which, if greenfield, then you won't have any metrics to tell you the actual demand.  Think Capacity planning; what this piece of work needs to do based on current expectations. For example</p>
@@ -405,12 +405,13 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
     Task&lt;IAsyncEnumerable&lt;Claim&gt;&gt; GetClaims(<span style="color:#66d9ef">string</span> username);    
 }
 </code></pre></div><h3 id="dependency-inversion-principle"><a href="">Dependency Inversion Principle</a></h3>
+<p>(think <strong>adapter pattern</strong>)</p>
 <p>There are 2 rules here:</p>
 <ul>
 <li>High-level modules should not depend on lower-level modules. Both should depend on abstractions.</li>
 <li>Abstractions should not depend upon details. Details should depend upon abstractions.</li>
 </ul>
-<p>Let's deal with the first rule first.  High-level means policy, business logic and the bigger picture.  Lower-level means, closure to the bare metal (think <strong>I/O</strong>, <strong>networking</strong>, <strong>Db</strong>, <strong>storage</strong>, <strong>UI</strong>, etc&hellip;).  Lower-level tend to change more frequently too.</p>
+<p>Let's deal with the first rule first.  High-level means policy, business logic and the bigger picture.  Lower-level means, closer to the bare metal (think <strong>I/O</strong>, <strong>networking</strong>, <strong>Db</strong>, <strong>storage</strong>, <strong>UI</strong>, etc&hellip;).  Lower-level tend to change more frequently too.</p>
 <p>These two examples show perfectly the before and after of the move to a &lsquo;depend on abstraction&rsquo;:</p>
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="color:#66d9ef">public</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">BusinessRule</span> 
 {
@@ -469,6 +470,15 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
 </code></pre></div><p>With the above change, the DbContext can be any class as long as it inherits from the IDbContext interface and has a method with a signature of Rule GetRuleByName(string name).</p>
 <p>The above is demonstrative of the 2nd rule; do not depend on the detail. As you can see, in the example above, we're depending on an interface method contract and the actual implementational detail is being dealt with by the Lower-level class.</p>
 <p>The above example includes <strong>Dependency Injection</strong>.  Although you can accomplish <strong>IoC</strong> with <strong>DI</strong>, they are not the same thing.  <strong>IoC</strong> does not mention anything about the direction of the dependency.</p>
+<h5 id="generalization-restrictions">Generalization restrictions</h5>
+<p>The presence of interfaces to accomplish the Dependency Inversion Pattern (DIP) has other design implications in an object-oriented program:</p>
+<ul>
+<li>All member variables in a class must be interfaces or abstracts</li>
+<li>All concrete class packages must connect only through interface or abstract class packages</li>
+<li>No class should derive from a concrete class</li>
+<li>No method should override an implemented method</li>
+<li>All variable instantiation requires the implementation of a creational pattern such as the factory method or the factory pattern, or the use of a dependency-injection framework.</li>
+</ul>
 <hr>
 <h4 id="my-pattern-discovery">My pattern discovery</h4>
 <p>I'm a huge fan of <strong>patterns</strong>, especially <strong>cloud architectural patterns</strong> but sometimes, they add unnecessary complicity so beware!</p>
@@ -521,6 +531,9 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
 <li>
 <p><a href="https://www.agilealliance.org/glossary/xp">XP</a></p>
 </li>
+<li>
+<p><a href="https://en.wikipedia.org/wiki/Dependency_inversion_principle">Dependency inversion principle</a></p>
+</li>
 </ul>
 
     
@@ -541,7 +554,7 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
 
 
     <span style="color: #999999; font-size: 60%;">Nifty <a href="https://codepen.io/wbeeftink/pen/dIaDH">tech tag lists</a> from <a class="pen-owner-link" href="https://codepen.io/wbeeftink">Wouter Beeftink</a> </span>
-     | <span style="color: #999999; font-size: 60%;">Page content generated from commit: <a href="https://github.com/YOURNAME/REPONAME/commit//859caa8" title="log: Made adjustments prior to publishing blob">859caa8</a>
+     | <span style="color: #999999; font-size: 60%;">Page content generated from commit: <a href="https://github.com/YOURNAME/REPONAME/commit//bd93785" title="log: Minor changes">bd93785</a>
   </div>
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
