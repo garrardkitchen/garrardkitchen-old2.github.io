@@ -499,7 +499,7 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
 <div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="color:#66d9ef">using</span> Moq;
 <span style="color:#66d9ef">using</span> Xunit;
 
-<span style="color:#66d9ef">namespace</span> test1
+<span style="color:#66d9ef">namespace</span> BasicAAATestExample
 {
     <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">interface</span> IUser
     {
@@ -538,20 +538,33 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
             <span style="color:#66d9ef">string</span> lastname, <span style="color:#66d9ef">string</span> expected)
         {
             <span style="color:#75715e">// arrange
-</span><span style="color:#75715e"></span>            <span style="color:#66d9ef">var</span> user = <span style="color:#66d9ef">new</span> Mock&lt;IUser&gt;();
-            user.Setup(x =&gt; x.GetFullname()).Returns(<span style="color:#e6db74">$&#34;{firstname} {lastname}&#34;</span>);
-            <span style="color:#66d9ef">var</span> sut = <span style="color:#66d9ef">new</span> Notify(user.Object);
+</span><span style="color:#75715e"></span>            <span style="color:#66d9ef">var</span> mockUser = <span style="color:#66d9ef">new</span> Mock&lt;IUser&gt;();
+            mockUser.Setup(x =&gt; x.GetFullname()).Returns(<span style="color:#e6db74">$&#34;{firstname} {lastname}&#34;</span>);
+            <span style="color:#66d9ef">var</span> sut = <span style="color:#66d9ef">new</span> Notify(mockUser.Object);
 
             <span style="color:#75715e">// act
 </span><span style="color:#75715e"></span>            <span style="color:#66d9ef">string</span> message = sut.GetMessage();
 
             <span style="color:#75715e">// assert
 </span><span style="color:#75715e"></span>            Assert.Equal(expected, message);
-            user.Verify(x =&gt; x.GetFullname(), Times.Once);
+            mockUser.Verify(x =&gt; x.GetFullname(), Times.Once);
         }
     }
 }
-</code></pre></div><h2 id="yagni"><a href="">YAGNI</a></h2>
+</code></pre></div><p>The single unit test above follows the <strong>AAA</strong> (<strong>Arrange, Act, Assert</strong>) pattern and is a common way of writing *<em>unit tests</em> for a method under test:</p>
+<ul>
+<li>the <code>Arrange</code> section of a unit test method initializes objects and sets the value of the data that is passed to the method under test</li>
+<li>the <code>Act</code> section invokes the method under test with the arranged parameters</li>
+<li>the <code>Assert</code> section verifies that the action of the method under test behaves as expected.</li>
+</ul>
+<p>There are a few standards I personally adhere to when it comes to writing tests.  In the sample unit test above these standards include:</p>
+<ul>
+<li>the method name (<code>GWT</code>)</li>
+<li>the comment blocks of <code>arrange</code>, <code>act</code> and <code>assert</code></li>
+<li>the name of the mock instantiated object (<code>mock&lt;Class&gt;</code>)</li>
+<li>the class name of the SUT - system under test - (<code>sut</code>).</li>
+</ul>
+<h2 id="yagni"><a href="">YAGNI</a></h2>
 <p>(you ain't going to need it)</p>
 <p>Do no more, and no less than is required.  You do not want to have to maintain code that is never used or produce code that others have to maintain unwittingly. It's very difficult to future proof your code if you do not know what's going to happen, let alone without a specification!  It's a guess at best so don't waste your time or others.  Keeps things concise, succinct and simple.</p>
 <hr>
@@ -597,6 +610,9 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
 <li>
 <p><a href="https://www.martinfowler.com/articles/injection.html">Inversion of Control Containers and the Dependency Injection pattern</a></p>
 </li>
+<li>
+<p><a href="https://docs.microsoft.com/en-us/visualstudio/test/unit-test-basics?view=vs-2019#write-your-tests">Write your tests</a></p>
+</li>
 </ul>
 
     
@@ -617,7 +633,7 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
 
 
     <span style="color: #999999; font-size: 60%;">Nifty <a href="https://codepen.io/wbeeftink/pen/dIaDH">tech tag lists</a> from <a class="pen-owner-link" href="https://codepen.io/wbeeftink">Wouter Beeftink</a> </span>
-     | <span style="color: #999999; font-size: 60%;">Page content generated from commit: <a href="https://github.com/YOURNAME/REPONAME/commit//980db0b" title="log: Changed unit test method name">980db0b</a>
+     | <span style="color: #999999; font-size: 60%;">Page content generated from commit: <a href="https://github.com/YOURNAME/REPONAME/commit//748af71" title="log: Added AAA notes">748af71</a>
   </div>
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
