@@ -483,17 +483,75 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
 <p>I'm a huge fan of <strong>patterns</strong>, especially <strong>cloud architectural patterns</strong> but sometimes, they add unnecessary complicity so beware!</p>
 <p>When I first started learning about patterns - some 18 years ago - I went through a few codebases I was involved with at the time to see if I'd subconsciously been repeatedly using a pattern &hellip; and I had!  It was the <strong>lazy loading</strong> pattern&hellip;which I continue to use regularly today!</p>
 <h2 id="testing"><a href="">Testing</a></h2>
-<p>(<strong>unit</strong>/<strong>functional</strong>, including concepts like <strong>TDD</strong> &amp; <strong>BDD</strong>)</p>
+<p>(<strong>unit</strong>/<strong>functional</strong>, including concepts like <strong>TDD</strong> &amp; <strong>BDD</strong> and frameworks)</p>
 <p>For testing to be a success, the details are key.  These details will come in the form of a specification or from a verbal conversation (always to be confirm in writing later).  If you're lucky, these test cases will be included as <strong>ACs</strong> (<strong>Acceptance Criteria</strong>) in the <strong>Scrum Story Description</strong>.</p>
 <p>Taking a <strong>test driven development</strong> approach to writing code often results in:</p>
 <ul>
 <li>a reduction in verbose code</li>
-<li>less post-deploy bug fixing</li>
-<li>succinct (do no more, no less than is required) structure and logic.</li>
+<li>less post-deployment bug fixing</li>
+<li>succinct (do no more, no less than is required), structure and logic.</li>
 </ul>
 <p>Testing is important.  Obviously!  I often refer to testing as &lsquo;having your back&rsquo;.  It ensures you don't break existing functionality when implementing new functionality or dealing with <strong>tech debt</strong>.  It also protects new engineers from breaking things as well as extant engineers who may have touched this repository many times before.</p>
-<p>Tests aren't just for new functionality either.  If you change extant functionality or class responsibilities you must modify extant tests or create new tests.  Ideally, your <strong>CI</strong> build pipeline should run tests every time time a commit(s) is pushed to a <strong>PR</strong> or <strong>Draft PR</strong>.  This last step is there to again have your back and to safeguard against erroneous code getting into production.</p>
-<h2 id="yagni"><a href="">YAGNI</a></h2>
+<p>Tests aren't just for new functionality either.  If you change extant functionality or class responsibilities you must modify extant tests or create new tests.  Ideally, your <strong>CI</strong> build pipeline should run tests every time time a commit(s) is pushed to a <strong>PR</strong> or <strong>Draft PR</strong>.  This last step is here, to again, have your back and to safeguard against erroneous code poluting your codebases and getting into production.</p>
+<p>In the <strong>.NET</strong> world, there are many <strong>testing frameworks</strong> available; <strong>xUnit</strong>, <strong>NUnit</strong>, <strong>MSTest</strong> to name a few.  There are also many mocking frameworks available; <strong>Moq</strong>, <strong>NSubstitute</strong>, <strong>JustMock</strong>, again, to name a few.  Frameworks like these help make the testing process and overall experience less painful and cumbersome and some might even say it makes this part of development, pleasurable!</p>
+<p>My <strong>.NET Core</strong> testing and mocking preferences are <a href="https://xunit.net/">xUnit</a> &amp; <a href="https://github.com/moq/moq4">Moq</a> and my javascript (including <strong>node.js</strong>) testing framework preference is <a href="https://jestjs.io/">Jest</a>.</p>
+<p>This code sample shows how both a testing and mocking frameworks compliment each other:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-csharp" data-lang="csharp"><span style="color:#66d9ef">using</span> Moq;
+<span style="color:#66d9ef">using</span> Xunit;
+
+<span style="color:#66d9ef">namespace</span> test1
+{
+    <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">interface</span> IUser
+    {
+        <span style="color:#66d9ef">string</span> GetFullname();
+        <span style="color:#66d9ef">string</span> Firstname { <span style="color:#66d9ef">get</span>; <span style="color:#66d9ef">set</span>; }
+        <span style="color:#66d9ef">string</span> Lastname { <span style="color:#66d9ef">get</span>; <span style="color:#66d9ef">set</span>; }
+    }
+
+    <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">User</span> : IUser
+    {
+        <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">string</span> Firstname { <span style="color:#66d9ef">get</span>; <span style="color:#66d9ef">set</span>; }
+
+        <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">string</span> Lastname { <span style="color:#66d9ef">get</span>; <span style="color:#66d9ef">set</span>; }
+
+        <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">string</span> GetFullname()
+        {
+            <span style="color:#66d9ef">return</span> <span style="color:#e6db74">$&#34;{Firstname} {Lastname}&#34;</span>;
+        }
+    }
+
+    <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">Notify</span>
+    {
+        <span style="color:#66d9ef">private</span> IUser _user;
+
+        <span style="color:#66d9ef">public</span> Notify(IUser user) =&gt; _user = user;
+
+        <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">string</span> GetMessage() =&gt; <span style="color:#e6db74">$&#34;{_user.GetFullname()} has been notified&#34;</span>;
+    }
+
+    <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">class</span> <span style="color:#a6e22e">NotifyTests</span>
+    {
+<span style="color:#a6e22e">        [Theory]</span>
+<span style="color:#a6e22e">        [InlineData(&#34;Garrard&#34;, &#34;Kitchen&#34;, &#34;Garrard Kitchen has been notified&#34;)]</span>
+<span style="color:#a6e22e">        [InlineData(&#34;Charles&#34;, &#34;Kitchen&#34;, &#34;Charles Kitchen has been notified&#34;)]</span>
+        <span style="color:#66d9ef">public</span> <span style="color:#66d9ef">void</span> GivenGetFullnameCalled_WhenFirstAndLastNameExits_ThenReturnsAValidFullname(<span style="color:#66d9ef">string</span> firstname,
+            <span style="color:#66d9ef">string</span> lastname, <span style="color:#66d9ef">string</span> expected)
+        {
+            <span style="color:#75715e">// arrange
+</span><span style="color:#75715e"></span>            <span style="color:#66d9ef">var</span> user = <span style="color:#66d9ef">new</span> Mock&lt;IUser&gt;();
+            user.Setup(x =&gt; x.GetFullname()).Returns(<span style="color:#e6db74">$&#34;{firstname} {lastname}&#34;</span>);
+            <span style="color:#66d9ef">var</span> sut = <span style="color:#66d9ef">new</span> Notify(user.Object);
+
+            <span style="color:#75715e">// act
+</span><span style="color:#75715e"></span>            <span style="color:#66d9ef">string</span> message = sut.GetMessage();
+
+            <span style="color:#75715e">// assert
+</span><span style="color:#75715e"></span>            Assert.Equal(expected, message);
+            user.Verify(x =&gt; x.GetFullname(), Times.Once);
+        }
+    }
+}
+</code></pre></div><h2 id="yagni"><a href="">YAGNI</a></h2>
 <p>(you ain't going to need it)</p>
 <p>Do no more, and no less than is required.  You do not want to have to maintain code that is never used or produce code that others have to maintain unwittingly. It's very difficult to future proof your code if you do not know what's going to happen, let alone without a specification!  It's a guess at best so don't waste your time or others.  Keeps things concise, succinct and simple.</p>
 <hr>
@@ -559,7 +617,7 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
 
 
     <span style="color: #999999; font-size: 60%;">Nifty <a href="https://codepen.io/wbeeftink/pen/dIaDH">tech tag lists</a> from <a class="pen-owner-link" href="https://codepen.io/wbeeftink">Wouter Beeftink</a> </span>
-     | <span style="color: #999999; font-size: 60%;">Page content generated from commit: <a href="https://github.com/YOURNAME/REPONAME/commit//a71eba9" title="log: Corrected publish datetime">a71eba9</a>
+     | <span style="color: #999999; font-size: 60%;">Page content generated from commit: <a href="https://github.com/YOURNAME/REPONAME/commit//93893a5" title="log: Added test frameworks content">93893a5</a>
   </div>
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
