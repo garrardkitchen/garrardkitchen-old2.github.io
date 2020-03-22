@@ -19,7 +19,7 @@
       <description>Most Engineers are fully versed in the foundations of writing quality, efficient, succinct and testable code. As a Principal Engineer, one of my responsibilities is to ensure that this baseline is (1) understood and (2) adhered to by all engineers.
 Here&#39;s a list of concepts that for me, constitute good engineering principles:
 These are in alphabetical order and not in order of importance
- Clean and readable code Code reviews Coding standards Composition over inheritance Defensive coding Do no more DRY KISS Occam&#39;s razor Premature optimization Refactor Separation of Concerns SOLID Testing YAGNI  Clean and readable code Clean and readable code is always better than clever code (ask any engineer who has to extend or maintain a clever piece of code!</description>
+ Clean and readable code Code reviews Coding standards Composition over inheritance Defensive coding Do no more DRY KISS Occam&#39;s razor Premature optimization Refactor Separation of Concerns SOLID Testing YAGNI  Other sections:</description>
     </item>
     
   </channel>
