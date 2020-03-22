@@ -279,8 +279,8 @@ Next!
 </ul>
 <h5 id="open-for-extension">Open for extension:</h5>
 <p>This means that we need to design our classes in such a way that it's new responsibilities or functionalities should be added easily when new requirements come.</p>
-<p>One technique for implementing new functionality is by creating new derived classes.  These are to inherit from base classes.  Another approach is to allow the &lsquo;client&rsquo; to access the original class with an abstract interface.  I sometimes see this as removing if statements.  Not sure everybody would agree with this assessment though.</p>
-<p>So, in short, if there's a change in requirement or any new requirements, instead of touching the existing functionality, it is better to create new derived classes and leave the original class implementation.  Well, that's the advice!  I worry about the <strong>class explosion</strong> and if you're attempting to do this on top of not so perfect code!</p>
+<p>One technique for implementing new functionality is by creating new derived classes.  A derived class will inherit from base class.  Another approach is to allow the &lsquo;client&rsquo; to access the original class with an abstract interface.  I sometimes think of this simply as removing <code>if statements</code> by extension but I'm not convinced everybody would agree with this assessment though.</p>
+<p>So, in short, if there's an amendment or any new features required, instead of touching the existing functionality, it is better to create new derived class and leave the original class implementation.  Well, that's the advice!  I worry about the <strong>class explosion</strong> and if you're attempting to do this on top of not so perfect code!</p>
 <h5 id="closed-modification">Closed modification:</h5>
 <p>This is very easy to explain&hellip;only make modifications to code if there's a bug.</p>
 <p>This sample looks at delegating method logic to derived classes.</p>
@@ -642,7 +642,7 @@ Calculator evensOnly = <span style="color:#66d9ef">new</span> SumEvenNumbersOnly
 
 
     <span style="color: #999999; font-size: 60%;">Nifty <a href="https://codepen.io/wbeeftink/pen/dIaDH">tech tag lists</a> from <a class="pen-owner-link" href="https://codepen.io/wbeeftink">Wouter Beeftink</a> </span>
-     | <span style="color: #999999; font-size: 60%;">Page content generated from commit: <a href="https://github.com/YOURNAME/REPONAME/commit//8ff36f1" title="log: Added influxdb and reordered some skills">8ff36f1</a>
+     | <span style="color: #999999; font-size: 60%;">Page content generated from commit: <a href="https://github.com/YOURNAME/REPONAME/commit//23be55c" title="log: Content change">23be55c</a>
   </div>
   
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
